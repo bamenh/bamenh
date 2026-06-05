@@ -1,4 +1,4 @@
-# Hi there, I'm Nameless 👋
+# About me
 
 A tech enthusiast focusing on system security, automated scripts, and low-level software architectures. 
 
@@ -7,7 +7,7 @@ A tech enthusiast focusing on system security, automated scripts, and low-level 
 ### 🛠️ Tech Stack & Tools
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white)
+![C++](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=blue)
 
 ### 📊 GitHub Stats
 ---
