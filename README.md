@@ -11,8 +11,8 @@ A tech enthusiast focusing on system security, automated scripts, and low-level 
 
 ### 📊 GitHub Stats
 ---
-::: 🔥 My Bento Portfolio :::
-[![Bento](https://img.shields.io/badge/Bento-Profile-black?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/your-username)
+::: My Portfolio :::
+[![Bento](https://img.shields.io/badge/Bento-Profile-black?style=for-the-badge&logo=bento&logoColor=white)](https://taplink.cc/bamenh)
 ---
 
 *“May the dark sigil guide thee.”*
